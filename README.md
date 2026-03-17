@@ -19,7 +19,6 @@ I build end-to-end AI systems — from model training to production deployment.
 ---
 
 ## 🛠️ Tech Stack
-
 ```
 AI/ML      PyTorch · TensorFlow · YOLOv8 · Whisper · LLaMA
 Backend    FastAPI · Django · REST API
@@ -27,15 +26,9 @@ MLOps      Docker · GitHub Actions CI/CD · Render
 NLP/CV     RAG · TF-IDF · OCR · Speech Recognition
 ```
 
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sickked-C&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8ff47&icon_color=e8ff47&text_color=f0f0f0)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sickked-C&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8ff47&text_color=f0f0f0)
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](minhcuong121103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](mailto:tuminhcuong121103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-e8ff47?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tuminhcuong-ai/)
