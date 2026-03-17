@@ -37,5 +37,5 @@ NLP/CV     RAG · TF-IDF · OCR · Speech Recognition
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-e8ff47?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](minhcuong121103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-e8ff47?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tuminhcuong-ai/)
