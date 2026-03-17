@@ -26,8 +26,6 @@ MLOps      Docker · GitHub Actions CI/CD · Render
 NLP/CV     RAG · TF-IDF · OCR · Speech Recognition
 ```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sickked-C&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8ff47&text_color=f0f0f0)
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](mailto:tuminhcuong121103@gmail.com)
