@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Cường 👋
 
-<!--
-**Sickked-C/Sickked-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI Engineer · Ho Chi Minh City, Vietnam
 
-Here are some ideas to get you started:
+I build end-to-end AI systems — from model training to production deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+| Project | Stack | Demo |
+|---------|-------|------|
+| 🚗 **[License Plate Recognition](https://github.com/Sickked-C/License-Plate-Recognition)** | YOLOv8 · VietOCR · FastAPI · Docker · CI/CD | [Demo](https://sickked-c.github.io/License-Plate-Recognition/) |
+| 🤖 **[RAG Chatbot](https://github.com/Sickked-C/rag-chatbot)** | TF-IDF · Groq LLaMA · FastAPI · Render | [Demo](https://sickked-c.github.io/rag-chatbot/) |
+| 🎙️ **[Speech-to-Text API](https://github.com/Sickked-C/STT-API)** | Groq Whisper · FastAPI · Render | [Demo](https://sickked-c.github.io/STT-API/) |
+| 🎧 **[Emotion Recognition](https://github.com/Sickked-C/Emotion-Recognition)** | LSTM · CNN · librosa · RAVDESS | [Repo](https://github.com/Sickked-C/Emotion-Recognition) |
+| 🗣️ **[Speech Recognition Web](https://github.com/Sickked-C/Speech-Recognition-Web)** | Django · Wave2Vec · MongoDB | [Repo](https://github.com/Sickked-C/Speech-Recognition-Web) |
+
+---
+
+## 🛠️ Tech Stack
+
+```
+AI/ML      PyTorch · TensorFlow · YOLOv8 · Whisper · LLaMA
+Backend    FastAPI · Django · REST API
+MLOps      Docker · GitHub Actions CI/CD · Render
+NLP/CV     RAG · TF-IDF · OCR · Speech Recognition
+```
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sickked-C&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e8ff47&icon_color=e8ff47&text_color=f0f0f0)
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-contact-e8ff47?style=flat&logo=gmail&logoColor=black)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-e8ff47?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-profile)
